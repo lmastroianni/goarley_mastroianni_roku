@@ -2,6 +2,7 @@
     <div id="headCon">
         <h2 class="hidden">Header Area</h2>
         <div id="logo">
+        <img src="images/logo.svg" class="logo" alt="Roku logo" width="100">
             <router-link class="route" to="/home"><img src="./public/images/logo.svg" alt="Roku Logo"></router-link>
         </div>
         <div id="mainNav">
